@@ -103,8 +103,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for permutations_test.Test">
-    <configuration name="Unittests for permutations_test.Test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests for Permutations.PermutationsTest.Test">
+    <configuration name="Unittests for Permutations.PermutationsTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Puzzles" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +114,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;permutations_test.Test&quot;" />
+      <option name="_new_target" value="&quot;Permutations.PermutationsTest&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for permutations_test.TestRecurse.test_neg" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for Permutations.PermutationsTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Puzzles" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +128,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;permutations_test.TestRecurse.test_neg&quot;" />
+      <option name="_new_target" value="&quot;Permutations.PermutationsTest&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for permutations_test.TestRecurse.test_sorting" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for Permutations.PermutationsTest.Test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Puzzles" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +142,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;permutations_test.TestRecurse.test_sorting&quot;" />
+      <option name="_new_target" value="&quot;Permutations.PermutationsTest.Test&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for permutations_test.Test.test_positive_case_3" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for Permutations.PermutationsTest.Test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Puzzles" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,11 +156,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;permutations_test.Test.test_positive_case_3&quot;" />
+      <option name="_new_target" value="&quot;Permutations.PermutationsTest.Test&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for permutations_test.Test.test_sorting" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for Permutations.PermutationsTest.Test.test_positive_case_3" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Puzzles" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,7 +170,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;permutations_test.Test.test_sorting&quot;" />
+      <option name="_new_target" value="&quot;Permutations.PermutationsTest.Test.test_positive_case_3&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -189,19 +189,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests for permutations_test.TestRecurse.test_neg" />
-      <item itemvalue="Python tests.Unittests for permutations_test.TestRecurse.test_sorting" />
-      <item itemvalue="Python tests.Unittests for permutations_test.Test.test_sorting" />
-      <item itemvalue="Python tests.Unittests for permutations_test.Test.test_positive_case_3" />
-      <item itemvalue="Python tests.Unittests for permutations_test.Test" />
+      <item itemvalue="Python tests.Unittests for Permutations.PermutationsTest" />
+      <item itemvalue="Python tests.Unittests for Permutations.PermutationsTest" />
+      <item itemvalue="Python tests.Unittests for Permutations.PermutationsTest.Test" />
+      <item itemvalue="Python tests.Unittests for Permutations.PermutationsTest.Test.test_positive_case_3" />
+      <item itemvalue="Python tests.Unittests for Permutations.PermutationsTest.Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for permutations_test.Test" />
-        <item itemvalue="Python tests.Unittests for permutations_test.Test.test_positive_case_3" />
-        <item itemvalue="Python tests.Unittests for permutations_test.Test.test_sorting" />
-        <item itemvalue="Python tests.Unittests for permutations_test.TestRecurse.test_sorting" />
-        <item itemvalue="Python tests.Unittests for permutations_test.TestRecurse.test_neg" />
+        <item itemvalue="Python tests.Unittests for Permutations.PermutationsTest.Test" />
+        <item itemvalue="Python tests.Unittests for Permutations.PermutationsTest.Test.test_positive_case_3" />
+        <item itemvalue="Python tests.Unittests for Permutations.PermutationsTest.Test" />
+        <item itemvalue="Python tests.Unittests for Permutations.PermutationsTest" />
+        <item itemvalue="Python tests.Unittests for Permutations.PermutationsTest" />
       </list>
     </recent_temporary>
   </component>

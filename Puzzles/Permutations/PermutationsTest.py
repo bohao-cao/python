@@ -1,5 +1,5 @@
 import unittest
-from permutations import Permutations
+from Permutations.Permutations import Permutations
 
 
 class Test(unittest.TestCase):
