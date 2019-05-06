@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/Puzzles.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Puzzles.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/permutations.py" beforeDir="false" afterPath="$PROJECT_DIR$/permutations.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,19 +14,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/permutations.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wayfair/description_parser/parser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="46" lean-forward="true" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+            <state relative-caret-position="513">
+              <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/permutations_test.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wayfair/description_parser/output.csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+            </state>
+          </provider>
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="false" fixedHeaders="false" rowLines="3">
+              <column index="0" width="100" />
+              <column index="1" width="100" />
+              <column index="2" width="100" />
+              <column index="3" width="100" />
+              <column index="4" width="100" />
+              <column index="5" width="100" />
+              <column index="6" width="100" />
+              <column index="7" width="100" />
+              <column index="8" width="100" />
+              <column index="9" width="100" />
+              <column index="10" width="100" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wayfair/description_parser/source_data.csv">
+          <provider editor-type-id="csv-text-editor">
+            <state>
+              <caret column="80" selection-start-column="71" selection-end-column="80" />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="true" rowLines="3">
+              <column index="0" width="29" />
+              <column index="1" width="100" />
+              <column index="2" width="196" />
+              <column index="3" width="206" />
+              <column index="4" width="351" />
+              <column index="5" width="100" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Permutations/PermutationsTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
+            <state relative-caret-position="330">
               <caret line="23" column="53" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -41,8 +83,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Python Unit Test" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -59,13 +101,17 @@
       <list>
         <option value="$PROJECT_DIR$/permutations.py" />
         <option value="$PROJECT_DIR$/permutations_test.py" />
+        <option value="$PROJECT_DIR$/permutations/permutations_test.py" />
+        <option value="$PROJECT_DIR$/wayfair/parser.py" />
+        <option value="$PROJECT_DIR$/wayfair/description_parser/source_data.csv" />
+        <option value="$PROJECT_DIR$/wayfair/description_parser/output.csv" />
+        <option value="$PROJECT_DIR$/wayfair/description_parser/parser.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="828" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -81,6 +127,22 @@
               <item name="Puzzles" type="b2602c69:ProjectViewProjectNode" />
               <item name="Puzzles" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Puzzles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Puzzles" type="462c0819:PsiDirectoryNode" />
+              <item name="Permutations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Puzzles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Puzzles" type="462c0819:PsiDirectoryNode" />
+              <item name="wayfair" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Puzzles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Puzzles" type="462c0819:PsiDirectoryNode" />
+              <item name="wayfair" type="462c0819:PsiDirectoryNode" />
+              <item name="description_parser" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -89,7 +151,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wayfair/description_parser" />
+      <recent name="$PROJECT_DIR$/permutations" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -103,7 +171,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for Permutations.PermutationsTest.Test">
+  <component name="RunManager" selected="Python.parser">
+    <configuration name="parser" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Puzzles" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wayfair/description_parser" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wayfair/description_parser/parser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests for Permutations.PermutationsTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Puzzles" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,17 +279,16 @@
     </configuration>
     <list>
       <item itemvalue="Python tests.Unittests for Permutations.PermutationsTest" />
-      <item itemvalue="Python tests.Unittests for Permutations.PermutationsTest" />
-      <item itemvalue="Python tests.Unittests for Permutations.PermutationsTest.Test" />
       <item itemvalue="Python tests.Unittests for Permutations.PermutationsTest.Test.test_positive_case_3" />
       <item itemvalue="Python tests.Unittests for Permutations.PermutationsTest.Test" />
+      <item itemvalue="Python.parser" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.parser" />
         <item itemvalue="Python tests.Unittests for Permutations.PermutationsTest.Test" />
         <item itemvalue="Python tests.Unittests for Permutations.PermutationsTest.Test.test_positive_case_3" />
         <item itemvalue="Python tests.Unittests for Permutations.PermutationsTest.Test" />
-        <item itemvalue="Python tests.Unittests for Permutations.PermutationsTest" />
         <item itemvalue="Python tests.Unittests for Permutations.PermutationsTest" />
       </list>
     </recent_temporary>
@@ -251,16 +339,15 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="828" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25581396" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14728682" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32880434" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39945653" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28915662" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3987952" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -276,6 +363,13 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/wayfair/description_parser/parser.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
       <breakpoints-defaults>
         <breakpoint type="python-line" />
       </breakpoints-defaults>
@@ -316,20 +410,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/permutations.py">
+    <entry file="file://$PROJECT_DIR$/Permutations/PermutationsTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="46" lean-forward="true" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/permutations_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
+        <state relative-caret-position="330">
           <caret line="23" column="53" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Permutations/Permutations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wayfair/description_parser/source_data.csv">
+      <provider editor-type-id="csv-text-editor">
+        <state>
+          <caret column="80" selection-start-column="71" selection-end-column="80" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="true" rowLines="3">
+          <column index="0" width="29" />
+          <column index="1" width="100" />
+          <column index="2" width="196" />
+          <column index="3" width="206" />
+          <column index="4" width="351" />
+          <column index="5" width="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wayfair/description_parser/output.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="false" fixedHeaders="false" rowLines="3">
+          <column index="0" width="100" />
+          <column index="1" width="100" />
+          <column index="2" width="100" />
+          <column index="3" width="100" />
+          <column index="4" width="100" />
+          <column index="5" width="100" />
+          <column index="6" width="100" />
+          <column index="7" width="100" />
+          <column index="8" width="100" />
+          <column index="9" width="100" />
+          <column index="10" width="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wayfair/description_parser/parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
         </state>
       </provider>
     </entry>

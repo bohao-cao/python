@@ -1,0 +1,30 @@
+Rule #,Class Question Map Type,Source Class Answer,Target Class Answer,Name rule,Flagged?
+1,All,Applied to options,Applied to options,Copy_Variation_Class_Answer_Rule_Processor() with optionIDs,No
+2,All,Applied to options,Not Applied to options NOR Tied to option category,"1)Associate_Principal_Options_Rule_Processor()
+2)Copy_Variation_Class_Answer_Rule_Processor() with optionIDs",No
+3,Generic,Applied to options,Tied to option category,"1)Copy_Variation_Class_Answer_Rule_Processor() with option IDs and optionCategoryID from Target
+2)Blank_Class_Answer_Rule_Processor()",Yes
+4,Non-generic,Applied to options,Tied to option category,"1)Copy_Variation_Class_Answer_Rule_Processor() with optionIDs
+2)Blank_Class_Answer_Rule_Processor()",Yes
+5,All,Applied to options,Applied to options AND Tied to option category  ,Copy_Variation_Class_Answer_Rule_Processor() with existing optionIDs and optionCategoryID from Target,No
+6,All,Not Applied to options NOR Tied to option category,Applied to options,Copy_Variation_Class_Answer_Rule_Processor() with unapplied optionIDs from source,No
+7,All,Not Applied to options NOR Tied to option category,Not Applied to options NOR Tied to option category,"1)Associate_Principal_Options_Rule_Processor
+2)Copy_Variation_Class_Answer_Rule_Processor() with all optionIDs on source
+",Yes
+8,Generic,Not Applied to options NOR Tied to option category,Tied to option category,No change - DO nothing,No
+9,Non-generic,Not Applied to options NOR Tied to option category,Tied to option category,"1)Copy_Variation_Class_Answer_Rule_Processor() with all optionIDs on source
+2)Blank_Class_Answer_Rule_Processor()",Yes
+10,Non-generic,Not Applied to options NOR Tied to option category,Applied to options AND Tied to option category,"Copy_Variation_Class_Answer_Rule_Processor() with all optionIDs on source and optionCategoryIDs from Target, unapplied optionIDs from source",No
+11,Non-generic,Tied to option category,Applied to options,Blank_Class_Answer_Rule_Processor(),Yes
+12,Non-generic,Tied to option category,Not Applied to options NOR Tied to option category,"1)Associate_Principal_Options_Rule_Processor()
+2)Blank_Class_Answer_Rule_Processor()",Yes
+13,Non-generic,Tied to option category,Tied to option category,Copy_Variation_Class_Answer_Rule_Processor() with optionCategoryIDs from target,No
+14,Non-generic,Tied to option category,Applied to options AND Tied to option category  ,Copy_Variation_Class_Answer_Rule_Processor() with optionCategoryIDs from Target and unapplied OptionIDs (all) from the Source ,No
+15,Non-generic,Applied to options AND Tied to option category,Applied to options,Copy_Variation_Class_Answer_Rule_Processor() - drop optionCategory from source,Yes
+16,Non-generic,Applied to options AND Tied to option category,Not Applied to options NOR Tied to option category,"1)Copy_Variation_Class_Answer_Rule_Processor() - drop optionCategory from source;
+2)Associate_Principal_Options_Rule_Processor()",Yes
+17,Non-generic,Applied to options AND Tied to option category,Tied to option category,"1)Copy_Variation_Class_Answer_Rule_Processor() with optionCategoryID from Target
+2)Associate_Principal_Options_Rule_Processor()",No
+18,Non-generic,Applied to options AND Tied to option category,Applied to options AND Tied to option category  ,Copy_Variation_Class_Answer_Rule_Processor() with optionIDs optionCategoryIDs from Target,No
+19,Non-generic,NULL,Applied to options,Blank_Class_Answer_Rule_Processor(),Yes
+20,Non-generic,Applied to options,NULL,Blank_Class_Answer_Rule_Processor(),Yes
